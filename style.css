@@ -1,21 +1,19 @@
+
+/*teqstis fonti*/
 @font-face {
-    font-family: "satauri";
-    src: url(satauri/JacquesFrancoisShadow-Regular.ttf);
+    font-family: "paragrapis fonti";
+    src: url(font1.ttf);
 }
+/*satauris fonti*/
 @font-face {
-    font-family: "paragraph1";
-    src: url(paragraph1/OriginalSurfer-Regular.ttf);
+    font-family: "satauris fonti";
+    src: url(font2.otf);
 }
-@font-face {
-    font-family: "paragraph2";
-    src: url(paragraph2/Play-Regular.ttf);
-}
+/*satauri*/
 h2{
-    font-family: "satauri";
+    font-family: "satauris fonti";
 }
-.teqsti1{
-    font-family: "paragraph1";
-}
-.teqsti2{
-    font-family: "paragraph2";
+/*teqsti*/
+p{
+    font-family: "paragrapis fonti";
 }
